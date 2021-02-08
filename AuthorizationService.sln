@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthorizationService", "AuthorizationService\AuthorizationService.csproj", "{76BE4802-91DD-4124-8455-B24CE7189FD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthorizationService.Testing", "AuthorizationService.Testing\AuthorizationService.Testing.csproj", "{3BCE2A85-B09A-4EAF-A629-509770321F9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76BE4802-91DD-4124-8455-B24CE7189FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BE4802-91DD-4124-8455-B24CE7189FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BE4802-91DD-4124-8455-B24CE7189FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BE4802-91DD-4124-8455-B24CE7189FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BCE2A85-B09A-4EAF-A629-509770321F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCE2A85-B09A-4EAF-A629-509770321F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCE2A85-B09A-4EAF-A629-509770321F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCE2A85-B09A-4EAF-A629-509770321F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14100287-135D-40C2-A84D-064A20EF3DBA}
+	EndGlobalSection
+EndGlobal
